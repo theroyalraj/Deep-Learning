@@ -1,11 +1,11 @@
 # Deep-Learning
 Deep Learning Projects
 
-#Projects
+# Projects
 These are some of my personal deep learning projects which i learnt and built it myself.
 
 
-#Installation Guide
+# Installation Guide
 This project requires Python 2.x or Python 3.x and the following Python libraries installed:
 
 NumPy
