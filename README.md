@@ -1,7 +1,11 @@
 # Deep-Learning
 Deep Learning Projects
 
-Install
+#Projects
+These are some of my personal deep learning projects which i learnt and built it myself.
+
+
+#Installation Guide
 This project requires Python 2.x or Python 3.x and the following Python libraries installed:
 
 NumPy
@@ -38,6 +42,4 @@ or
 jupyter notebook <name>.ipynb
 
 This will open the Jupyter Notebook software and notebook file in your browser.
-
-Data:
-Data is provided in the directory in data folder. Which was generated in the competiotion hosted by HackerEarth ML Hackathon(IIT-Madras-Sangam-ML-Hackathon-2019) 
+ 
